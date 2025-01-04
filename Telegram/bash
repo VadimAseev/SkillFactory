@@ -1,0 +1,4 @@
+/currency_bot
+|-- bot.py            # Главный файл для запуска Telegram-бота
+|-- config.py         # Файл с токеном бота
+|-- extensions.py     # Классы и обработка запросов
